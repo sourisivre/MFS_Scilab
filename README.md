@@ -1,4 +1,4 @@
-# MFS_Scilab
+# 💻 MFS_Scilab
 ### Method of Fundamental Solutions implemented in SciLAB
 
 In this repository I make avaiable the basic code needed to apply the Method of Fundamental Solutions (MFS) to the Laplacian Operator in a 2D space.
