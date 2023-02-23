@@ -17,3 +17,7 @@ Files are scripts. Please load them in script editor before running.
 
 1. After downloading all files above, you will need to replace the path to access the `Database.xls` in your system where is indicated in code
 2. Now you can run `Example.sce`
+
+### Important observations
+* `MFS_Core.sce` is not able to perform alone a MFS test. You will need to create a bunch of matrixes to feed main functions.
+* `Example.sce` provides enough details for you to replicate and adapt the code to your projects.
